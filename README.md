@@ -1,6 +1,6 @@
-# 🔗 Scalable URL Shortener (Amazon-Level)
+# 🔗 Scalable URL Shortener 
 
-A beginner-friendly but powerful URL Shortener built with Python & Flask.
+A powerful URL Shortener built with Python & Flask.
 
 ---
 
@@ -127,4 +127,4 @@ GET /all
 ---
 
 ## 👨‍💻 Author
-Built with ❤️ using Python & Flask
+Built using Python & Flask
